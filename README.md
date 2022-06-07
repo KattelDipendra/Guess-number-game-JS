@@ -1,1 +1,1 @@
-# Guess-number-game-JS
+this is a mini project where i developed a interface using HTML ,CSS and javascript . It is a game module .where player can guess the number and check their luck in how many times there choice matches with the computer generated random numbers.
